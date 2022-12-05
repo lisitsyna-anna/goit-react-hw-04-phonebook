@@ -76,7 +76,7 @@ export function App() {
       >
         <Container
           as="div"
-          width={600}
+          width={700}
           ml={'auto'}
           mr={'auto'}
           backgroundColor={'white'}
